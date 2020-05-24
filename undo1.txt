@@ -4,13 +4,10 @@ hey
 new line starts here
 and more
 keep doing this
-<<<<<<< HEAD
 more text here
 another change
 here
 also here
-=======
->>>>>>> parent of 09b876a... adds another change
 5
 6
-ha ha ha
+7
